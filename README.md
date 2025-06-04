@@ -57,7 +57,7 @@ Este projeto tem como objetivo realizar uma análise exploratória dos casos de 
 - Carlos Augusto Freire Maia de Oliveira — RA: 21007810  
 - Nathan Zanoni da Hora — RA: 21.01208-3  
 - Gabriel Zendron Allievi — RA: 21.01350-0  
-- João Paulo de Souza Roddrigues — RA: 21.01809-0  
+- João Paulo de Souza Rodrigues — RA: 21.01809-0  
 
 ## 📚 Referências
 
