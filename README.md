@@ -49,7 +49,7 @@ Este projeto tem como objetivo realizar uma análise exploratória dos casos de 
 ## 📽️ Apresentação
 
 > Assista ao vídeo explicativo do projeto:  
-[🔗 Clique aqui para assistir](https://youtu.be/eGhGRRXnFTk) *(substitua pelo seu link real caso deseje)*
+[🔗 Clique aqui para assistir](https://youtu.be/eGhGRRXnFTk) 
 
 # 👥 Integrantes
 
